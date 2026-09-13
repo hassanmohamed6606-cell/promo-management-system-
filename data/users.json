@@ -1,0 +1,17 @@
+[
+  {
+    "username": "admin",
+    "password_hash": "63424ad66c366ce99bbd299407f7e1a4$a86ce9542fe621ed46c20bd76f39e0ce7407cd6fa244cf6207dc2f19da3f3446",
+    "role": "admin"
+  },
+  {
+    "username": "Staff",
+    "password_hash": "cab5c563bccb725b18eef89c627d91c6$8fe26710ee31a5bf6bafd1ed6a59bded7235a49fefff82db5703932ccea5798d",
+    "role": "staff"
+  },
+  {
+    "username": "Faith",
+    "password_hash": "5c5c5d01888dfa142d02f201a3dac5c4$a1ce263061343988e9eedc0b7a66be812fcc920696b750cab8239851b3c38f11",
+    "role": "staff"
+  }
+]

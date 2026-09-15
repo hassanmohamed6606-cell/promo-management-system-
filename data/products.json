@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "12oZ Paper Cups",
+    "category": "Packaging stuff",
+    "price": 600.0,
+    "stock": 20
+  },
+  {
+    "id": 2,
+    "name": "1000ml Container",
+    "category": "Packaging",
+    "price": 150.0,
+    "stock": 35
+  }
+]

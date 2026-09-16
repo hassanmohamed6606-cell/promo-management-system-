@@ -1,3 +1,9 @@
+Trello Link 
+
+https://trello.com/invite/b/6aa3f2449e0304677e13011d/ATTI2f4e4e5ba18f332ae7b8fe4dcb0d5a1aBEDDF45A/my-trello-board
+
+
+
 # PromoFlow — Discount & Promotion Management System
 
 A Python CLI application for managing products, promotions, discounts and sales.
@@ -81,4 +87,5 @@ Fixed:
 `Discount = min(Fixed Amount, Original Total)`
 
 `Final Price = Original Total − Discount`
+
 
